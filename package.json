@@ -92,5 +92,8 @@
     "check",
     "format",
     "validate"
-  ]
+  ],
+  "resolutions": {
+    "listr": "github:aleclarson/listr#pnpm"
+  }
 }
